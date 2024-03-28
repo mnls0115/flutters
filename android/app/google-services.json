@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221057399819",
+    "firebase_url": "https://soaproject-18766-default-rtdb.firebaseio.com",
+    "project_id": "soaproject-18766",
+    "storage_bucket": "soaproject-18766.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221057399819:android:53ba8cbc4790b10c0cdb0e",
+        "android_client_info": {
+          "package_name": "com.example.soaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221057399819-df4f3oph006off0o4lbmni2ftb2io2s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD_VFY0quW8u907PCUS8jphWQv-dytzjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221057399819-df4f3oph006off0o4lbmni2ftb2io2s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
